@@ -2,7 +2,7 @@
 
 Learn C++
 
-Conditional & Logic
+Conditionals & Logic
 
 Rock, Paper, Scissors, Lizard, Spock
 
